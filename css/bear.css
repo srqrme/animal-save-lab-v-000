@@ -12,6 +12,7 @@ html {
 
 @media only screen and (max-width: 1196px) {
   #bear {
+    position: absolute;
     margin-left: 800px;
   }
 }
